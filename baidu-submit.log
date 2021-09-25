@@ -1,13 +1,13 @@
 
 ===========================================
-Sat Sep 25 16:41:46 UTC 2021
+Sat Sep 25 16:43:33 UTC 2021
 ===========================================
-SITE_URL: https://games.cn.pipecraft.net
-SITEMAP_URL: https://games.cn.pipecraft.net/sitemap.xml
-Get sitemap https://games.cn.pipecraft.net/sitemap.xml
+SITE_URL: https://discuss.cn.pipecraft.net
+SITEMAP_URL: https://discuss.cn.pipecraft.net/sitemap.xml
+Get sitemap https://discuss.cn.pipecraft.net/sitemap.xml
 
 Submit ./urls-aa
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0100   534  100    28  100   506     11    202  0:00:02  0:00:02 --:--:--   213
-{"remain":2986,"success":14}Done!
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1018  100    28  100   990     29   1038 --:--:-- --:--:-- --:--:--  1067
+{"remain":2948,"success":26}Done!
