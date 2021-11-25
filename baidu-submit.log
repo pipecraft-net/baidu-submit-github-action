@@ -6250,3 +6250,16 @@ Submit ./urls-aa
                                  Dload  Upload   Total   Spent    Left  Speed
   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1219  100    28  100  1191     21    931  0:00:01  0:00:01 --:--:--   953
 {"remain":2977,"success":23}Done!
+
+===========================================
+Thu Nov 25 04:44:31 UTC 2021
+===========================================
+SITE_URL: https://games.cn.pipecraft.net
+SITEMAP_URL: https://games.cn.pipecraft.net/sitemap.xml
+Get sitemap https://games.cn.pipecraft.net/sitemap.xml
+
+Submit ./urls-aa
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   534  100    28  100   506     28    512  0:00:01 --:--:--  0:00:01   539100   534  100    28  100   506     28    512  0:00:01 --:--:--  0:00:01   539
+{"remain":2986,"success":14}Done!
