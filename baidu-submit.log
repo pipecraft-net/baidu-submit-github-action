@@ -6966,3 +6966,16 @@ Submit ./urls-aa
   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  2584    0     0  100  2584      0   2210  0:00:01  0:00:01 --:--:--  2210
 curl: (56) Recv failure: Connection reset by peer
 Done!
+
+===========================================
+Thu Dec 2 04:39:03 UTC 2021
+===========================================
+SITE_URL: https://discuss.en.pipecraft.net
+SITEMAP_URL: https://discuss.en.pipecraft.net/sitemap.xml
+Get sitemap https://discuss.en.pipecraft.net/sitemap.xml
+
+Submit ./urls-aa
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1219  100    28  100  1191     24   1025  0:00:01  0:00:01 --:--:--  1049
+{"remain":2977,"success":23}Done!
