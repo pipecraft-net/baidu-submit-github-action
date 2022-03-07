@@ -16797,3 +16797,16 @@ Submit ./urls-aa
                                  Dload  Upload   Total   Spent    Left  Speed
   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  2909  100    28  100  2881     19   2027  0:00:01  0:00:01 --:--:--  2047100  2909  100    28  100  2881     19   2027  0:00:01  0:00:01 --:--:--  2047
 {"remain":2928,"success":72}Done!
+
+===========================================
+Mon Mar 7 04:36:22 UTC 2022
+===========================================
+SITE_URL: https://discuss.en.pipecraft.net
+SITEMAP_URL: https://discuss.en.pipecraft.net/sitemap.xml
+Get sitemap https://discuss.en.pipecraft.net/sitemap.xml
+
+Submit ./urls-aa
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1219  100    28  100  1191     19    820  0:00:01  0:00:01 --:--:--   839100  1219  100    28  100  1191     19    820  0:00:01  0:00:01 --:--:--   839
+{"remain":2977,"success":23}Done!
