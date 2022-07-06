@@ -29413,14 +29413,14 @@ Submit ./urls-aa
 {"remain":2954,"success":23}Done!
 
 ===========================================
-Wed Jul 6 15:47:26 UTC 2022
+Wed Jul 6 15:50:23 UTC 2022
 ===========================================
-SITE_URL: https://games.en.pipecraft.net
-SITEMAP_URL: https://games.en.pipecraft.net/sitemap.xml
-Get sitemap https://games.en.pipecraft.net/sitemap.xml
+SITE_URL: https://games.cn.pipecraft.net
+SITEMAP_URL: https://games.cn.pipecraft.net/sitemap.xml
+Get sitemap https://games.cn.pipecraft.net/sitemap.xml
 
 Submit ./urls-aa
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   753  100    28  100   725     28    736  0:00:01 --:--:--  0:00:01   763
-{"remain":2970,"success":15}Done!
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   534  100    28  100   506     18    327  0:00:01  0:00:01 --:--:--   345100   534  100    28  100   506     18    327  0:00:01  0:00:01 --:--:--   345
+{"remain":2972,"success":14}Done!
