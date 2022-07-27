@@ -31546,3 +31546,16 @@ SITE_URL: https://discuss.en.pipecraft.net
 SITEMAP_URL: https://discuss.en.pipecraft.net/sitemap.xml
 Get sitemap https://discuss.en.pipecraft.net/sitemap.xml
 Done!
+
+===========================================
+Wed Jul 27 15:38:09 UTC 2022
+===========================================
+SITE_URL: https://games.cn.pipecraft.net
+SITEMAP_URL: https://games.cn.pipecraft.net/sitemap.xml
+Get sitemap https://games.cn.pipecraft.net/sitemap.xml
+
+Submit ./urls-aa
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   534  100    28  100   506     20    372  0:00:01  0:00:01 --:--:--   392100   534  100    28  100   506     20    372  0:00:01  0:00:01 --:--:--   392
+{"remain":2972,"success":14}Done!
