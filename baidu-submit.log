@@ -31690,3 +31690,16 @@ Submit ./urls-aa
                                  Dload  Upload   Total   Spent    Left  Speed
   0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0100  1219  100    28  100  1191      5    243  0:00:05  0:00:04  0:00:01   248100  1219  100    28  100  1191      5    243  0:00:05  0:00:04  0:00:01   280
 {"remain":2977,"success":23}Done!
+
+===========================================
+Fri Jul 29 05:04:37 UTC 2022
+===========================================
+SITE_URL: https://games.cn.pipecraft.net
+SITEMAP_URL: https://games.cn.pipecraft.net/sitemap.xml
+Get sitemap https://games.cn.pipecraft.net/sitemap.xml
+
+Submit ./urls-aa
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100   534  100    28  100   506     18    334  0:00:01  0:00:01 --:--:--   353100   534  100    28  100   506     18    334  0:00:01  0:00:01 --:--:--   353
+{"remain":2986,"success":14}Done!
